@@ -33,7 +33,3 @@ This is a simple, responsive template created with HTML and CSS. It provides a c
 
 - **HTML5** 🏗️
 - **CSS3** 🎨
-
-## License 📝
-
-This project is open-source and available under the [MIT License](LICENSE). Feel free to use and modify it for your projects! 💻
